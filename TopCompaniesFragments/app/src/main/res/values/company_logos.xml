@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="companyLogos">
+        <item>@drawable/apple</item>
+            <item>@drawable/facebook</item>,
+            <item>@drawable/google</item>,
+            <item>@drawable/linkedin</item>,
+            <item>@drawable/microsoft</item>
+    </array>
+
+</resources>

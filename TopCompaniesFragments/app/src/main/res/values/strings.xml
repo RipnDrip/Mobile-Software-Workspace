@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Top Companies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <array name="Logos">
+        <item>@drawable/apple</item>
+        <item>@drawable/facebook</item>
+        <item>@drawable/google</item>
+        <item>@drawable/linkedin</item>
+        <item>@drawable/microsoft</item>
+    </array>
+
+</resources>

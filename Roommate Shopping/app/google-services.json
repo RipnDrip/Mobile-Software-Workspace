@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706609819443",
+    "firebase_url": "https://roommate-shopping-a047b-default-rtdb.firebaseio.com",
+    "project_id": "roommate-shopping-a047b",
+    "storage_bucket": "roommate-shopping-a047b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706609819443:android:ec80a0a464808ca5e49846",
+        "android_client_info": {
+          "package_name": "edu.uga.cs.roommateshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706609819443-hogp3752on23u1q97rib64unraoa96gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCitpByynbbUEgf8O7hHWX5VTqaNR79-L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706609819443-hogp3752on23u1q97rib64unraoa96gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

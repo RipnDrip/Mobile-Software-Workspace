@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TopCompanies</string>
+    <string name="top_companies">Top Companies</string>
+    <string name="overview">Overview</string>
+    <string name="details">Details</string>
+    <string name="this_app_is_designed_to_provide_information_about_5_of_the_top_financial_companies_you_can_work_for_today_choose_a_company_below_to_get_started">This app is designed to provide information about 5 of the top financial companies you can work for today. Choose a company below to get started!</string>
+</resources>

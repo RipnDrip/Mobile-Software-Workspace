@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeds_array">
+        <item>Apple</item>
+        <item>India crabgrass</item>
+        <item>Yellow nutsedge</item>
+        <item>Dandelion</item>
+        <item>Foxtail</item>
+        <item>Henbit</item>
+        <item>Violet</item>
+        <item>White clover</item>
+        <item>Common ragweed</item>
+        <item>Carpetweed</item>
+    </string-array>
+    <string-array name="weedurls_array">
+        <item>Average Salary:
+- $128,000
+
+Average bonus:
+- $12,000
+
+Dress Code:
+- No dress code, very casual
+
+Benefits:
+- 401k
+- Health, Dental, and Life Insurance
+- Paid time off
+
+Work Environment:
+- At a glance, it can be described as fun, relaxed, and casual, however
+  Apple is heavily committed to achieving deadlines so it can still
+  be demanding</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/grass-like-weeds/india-crabgrass.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/grass-like-weeds/yellow-nutsedge.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/dandelion.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/grass-like-weeds/knotroot-foxtail.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/henbit.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/violet.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/white-clover.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/common-ragweed.html</item>
+        <item>https://turf.caes.uga.edu/pest-management/weeds/broadleaf-weeds/carpetweed.html</item>
+    </string-array>
+</resources>

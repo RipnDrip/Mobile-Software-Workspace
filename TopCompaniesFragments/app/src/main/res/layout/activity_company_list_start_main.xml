@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CompanyListStartActivity"
+    android:orientation="horizontal">
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-48dp">
+
+        <TextView
+            android:layout_width="257dp"
+            android:layout_height="72dp"
+            android:layout_gravity="center|top"
+            android:layout_marginTop="150dp"
+            android:text="This application is to show users the top companies to work for right now using fragments!"
+            android:textAlignment="gravity" />
+
+        <Button
+            android:id="@+id/companyListButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Company List" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="100dp"
+            android:layout_marginLeft="100dp"
+            app:srcCompat="@drawable/facebook" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            app:srcCompat="@drawable/apple" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="top|center_vertical"
+            android:layout_marginStart="195dp"
+            android:layout_marginLeft="195dp"
+            app:srcCompat="@drawable/google" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="275dp"
+            android:layout_marginLeft="275dp"
+            app:srcCompat="@drawable/linkedin" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="370dp"
+            android:layout_marginLeft="370dp"
+            app:srcCompat="@drawable/microsoft" />
+
+    </FrameLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
